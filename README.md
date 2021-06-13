@@ -9,7 +9,8 @@ Meu nome é Frederico, mas pode me chamar de Fred. Um eterno estudante. Meu foco
 -  👨🏻‍💻 Front-end Developer.
 -  🔍 Atualmente aberto a novas oportunidades.
 -  📰 Aprendendo Node.js, React UI, UX.
--  💜Tenho conhecimento em Scrum, Figma, Python, Git, Github
+-  💜Tenho conhecimento em HTML5, CSS, JavaScript,Scrum, Figma, Python, Git, Github.
+-  💜Tenho conhecimento também em ShotCut, Gimp, PS.
 -  🎯 Objetivo: Pretendo me tornar Desenvolvedor Full Stack.
 -  💬 Sobre mim: Corredor, enxadrista e pai!!  
 
