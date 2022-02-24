@@ -6,13 +6,13 @@
 Meu nome é Frederico, mas pode me chamar de Fred. Um eterno estudante. Meu foco é o Front, mas de olho sempre no Back . 
 
 -  🎒Graduando em Engenharia na UFSJ.
--  👨🏻‍💻 Front-end Developer.
+-  👨🏻‍💻 Fulstack Developer.
 -  🔍 Atualmente aberto a novas oportunidades.
--  📰 Aprendendo Node.js, React UI, UX.
--  💜Tenho conhecimento em HTML5, CSS, JavaScript.
--  💜Tenho conhecimento também em WordPress, Elementor, Scrum, Figma, Python, Git, Github, ShotCut, Gimp, PS.
--  🎯 Objetivo: Pretendo me tornar Desenvolvedor Full Stack.
--  💬 Sobre mim: Corredor, enxadrista e pai!!  
+-  📰 Aprendendo Node.js, UI, UX.
+-  💜Tenho conhecimento em HTML5, CSS, JavaScript, C#, .Net, Java, React, bootstrap, SQLserver, Mysql.
+-  💜Tenho conhecimento também em WordPress, Elementor, Scrum, Figma, Python, Git, Github, ShotCut, Gimp.
+-  🎯 Objetivo: Pretendo me tornar um Desenvolvedor Full Stack referência. Preferencialmente em C#, .NET.
+-  💬 Sobre mim: Corredor, enxadrista, pai e apaixonado por programação!!  
 
 
  
