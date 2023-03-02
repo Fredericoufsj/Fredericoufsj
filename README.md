@@ -11,9 +11,9 @@ Meu nome é Frederico, mas pode me chamar de Fred. Um apaixonado por tecnologia.
 -  📰 Aprendendo Node.js, UI, UX.
 -  💜Tenho conhecimento em HTML5, CSS, JavaScript, C#, .Net, Java, React, bootstrap, SQLserver, Mysql.
 -  💜Tenho conhecimento também em WordPress, Elementor, Scrum, Figma, Python, Git, Github, ShotCut, Gimp.
--  🎯 Objetivo: Pretendo me tornar um Desenvolvedor Full Stack referência. Preferencialmente em C#, .NET.
+-  🎯 Objetivo: Pretendo me tornar um Desenvolvedor Full Stack referência. Preferencialmente em React, Java.
 -  💬 Sobre mim: Corredor, enxadrista, pai e apaixonado por programação!!  
--  🎒Graduando em Engenharia na UFSJ.
+-  🎒.
 
  
 
